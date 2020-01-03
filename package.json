@@ -1,0 +1,23 @@
+{
+  "name": "multilator",
+  "version": "1.0.0",
+  "description": "multilator app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashipriyamishra/multilator-node.git"
+  },
+  "keywords": [
+    "multilator",
+    "node"
+  ],
+  "author": "shashi <shashipriyamishra@gmail.com> (http://multilator.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashipriyamishra/multilator-node/issues"
+  },
+  "homepage": "https://github.com/shashipriyamishra/multilator-node#readme"
+}
